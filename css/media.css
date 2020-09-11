@@ -1,0 +1,24 @@
+@charset"utf-8";
+
+/*웹뷰*/
+/*숨김처리*/
+
+
+
+
+/*웹뷰*/
+
+/*모바일뷰*/
+/*숨김처리*/
+@media screen and (max-width:768px){
+    .gnb,.lang{display:none;}
+
+
+    #header{
+        background:#2669ba;
+    }
+}
+
+/*모바일뷰*/
+
+으악 이거 이미지 다시 다 잘라야 될 듯 ㄷㄷ;;
